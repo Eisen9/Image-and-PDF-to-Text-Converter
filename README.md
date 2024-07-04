@@ -87,4 +87,4 @@ Contributions to improve the script or extend its functionality are welcome. Ple
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).# Image-and-PDF-to-Text-Converter
+This project is open source and available under the [MIT License](LICENSE).
